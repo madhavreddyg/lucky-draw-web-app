@@ -1,16 +1,23 @@
-# Project Name  
-A short description of what your project does.
+# Lucky Draw Web App 🎰
 
-## Features  
-- 🎲 Random lottery number generation  
-- 🎟️ Ticket purchasing simulation  
-- 🏆 Jackpot calculations  
+A fun and interactive lottery game web app that allows users to generate random lottery numbers, simulate ticket purchases, and calculate jackpot winnings. 
+Perfect for testing out your luck!
 
-## Installation  
-1. Clone the repo:  
+## Features
+- 🎲 **Random lottery number generation**: Generate random numbers for your lottery ticket.
+- 🎟️ **Ticket purchasing simulation**: Simulate the process of buying lottery tickets.
+- 🏆 **Jackpot calculations**: Calculate your potential jackpot winnings based on the drawn numbers.
+
+## Installation
+
+1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/lottery-game.git
-npm install
-npm start
+   git clone https://github.com/yourusername/lucky-draw-web-app.git
 
-This is just an example—customize it based on your project. Let me know if you need help writing one! 🚀
+2. Navigate to the project folder:
+   ```sh
+   cd lucky-draw-web-app
+
+4. Install the dependencies:
+   ```sh
+   npm install
